@@ -26,7 +26,7 @@ following way:
 ```cpp
 #include <Eigen/Core>
 #include <iostream>
-#include <LBFGS.h>
+#include <LBFGSpp/LBFGS.h>
 
 using Eigen::VectorXd;
 using namespace LBFGSpp;
@@ -135,7 +135,7 @@ example, but we require that all variables should be between 2 and 4.
 ```cpp
 #include <Eigen/Core>
 #include <iostream>
-#include <LBFGSB.h>  // Note the different header file
+#include <LBFGSpp/LBFGSB.h>  // Note the different header file
 
 using Eigen::VectorXd;
 using namespace LBFGSpp;

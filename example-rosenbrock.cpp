@@ -1,6 +1,6 @@
 #include <Eigen/Core>
 #include <iostream>
-#include <LBFGS.h>
+#include <LBFGSpp/LBFGS.h>
 
 using Eigen::VectorXf;
 using Eigen::MatrixXf;

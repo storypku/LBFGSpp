@@ -1,6 +1,6 @@
 #include <Eigen/Core>
 #include <iostream>
-#include <LBFGSB.h>
+#include <LBFGSpp/LBFGSB.h>
 
 using namespace LBFGSpp;
 

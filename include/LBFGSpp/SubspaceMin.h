@@ -7,7 +7,7 @@
 #include <stdexcept>
 #include <vector>
 #include <Eigen/Core>
-#include "BFGSMat.h"
+#include "LBFGSpp/BFGSMat.h"
 
 
 /// \cond
